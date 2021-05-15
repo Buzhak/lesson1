@@ -19,4 +19,3 @@ while True:
 
 
 print(int(number)+10)
-print()
