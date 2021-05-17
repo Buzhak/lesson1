@@ -1,4 +1,4 @@
-def compare_str(str0,str1):
+def compare_str(str0,str1) -> int:
     if type(str0) != str or type(str1) != str:
         return 0
     elif str0 != str1 and len(str0)>len(str1):
